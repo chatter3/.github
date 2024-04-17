@@ -3,7 +3,7 @@ chatter3 is a communication forum with signature verified identity
 
 # <a href="https://www.merriam-webster.com/dictionary/chatter">chatter3</a>
 
-Welcome to **chatter3**, a revolutionary Web3-based forum where discussions are signed and verified using blockchain technology. chatter3 enables users to engage in forums where every post is cryptographically signed by the user's wallet, ensuring authenticity and accountability.
+Welcome to **chatter3**, a reputation biased web3-based commication forum where discussions are signed and verified using blockchain technology. chatter3 enables users to engage in forums where every post is cryptographically signed by the user's wallet ensuring authenticity and accountability. You are the value. The value is you.
 
 ## Project Overview
 
