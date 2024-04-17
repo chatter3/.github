@@ -26,6 +26,8 @@ These instructions will get you a copy of the project up and running on your loc
 - [Truffle Suite](https://www.trufflesuite.com/)
 - [MetaMask](https://metamask.io/) or another Ethereum wallet supported by Web3
 
+- https://docs.walletconnect.com/web3inbox/about?utm_source=medium&utm_medium=blog&utm_campaign=sdkpubliclaunch
+
 ### Installation
 
 1. **Clone the Repository**
